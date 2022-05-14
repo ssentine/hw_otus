@@ -1,4 +1,4 @@
-module github.com/ssentine/hw02_unpack_string
+module github.com/ssentine/hw_otus/hw2
 
 go 1.16
 
